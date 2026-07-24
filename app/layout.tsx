@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 	title: "Sidebar hydration reproduction",
-	description: "Async sidebar state reproduction for Next preview",
+	description: "sidebar state reproduction for Next preview",
 };
 
 export default function RootLayout({
